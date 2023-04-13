@@ -1,0 +1,4 @@
+H:\BITBUCKET\C++\Temp\Snake_terminal\Debug\snake.exe
+H:\BITBUCKET\C++\Temp\Snake_terminal\Debug\snake.pdb
+C:\Users\Павел\Desktop\Snake_terminal\Debug\snake.exe
+C:\Users\Павел\Desktop\Snake_terminal\Debug\snake.pdb
